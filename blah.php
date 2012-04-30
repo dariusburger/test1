@@ -2,7 +2,7 @@
 echo 'hallo world!';
 
 echo 'edit!';
-`git pull`;
+//`git pull`;
 echo '<br />';
 echo 'lalalala';
 ?>
